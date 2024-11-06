@@ -1,0 +1,85 @@
+
+            PARTIE ACCEUIL
+Bouton "Mode PvP local" : pos : 100*150 taille : 40*40
+Texte PvP local : 150 *160
+
+Bouton "Mode PvP online" : pos 100*250 taille 40*40
+Texte PvP online: 150*260
+    Bouton "Host" : pos 550*260 taille 25*25
+        texte : 580*265
+    Bouton "Join" : pos 675*260 taille 25*25
+        texte : 705*265
+        
+Bouton "Load save" : pos 540 * 150 taille 40*40
+    texte 580*145
+
+Bouton "Mode PvIA" : pos 100 * 350 taille 40*40
+Texte PvIA : 150*360
+
+Bouton "Play !" : pos 100*625 taille 600*100
+
+Bouton "Règles" : pos 335*500 taille 130*45
+
+            PARTIE JEU
+Plateau : 800*750
+Cases à partir de 134 * 18
+Taille des cases : 81*81
+Tailles des pions : 81*81
+Texte Save : pos : 24*24 taille : 87 * 388
+Texte FF : pos : 24 * 428 taille : 87 * 68
+Texte turn : pos : 10 * 650 taille : 
+
+Confirmation : pos :  Taille : 600 * 100
+    oui : pos : 150 * 60 taille : 100*30
+    non : pos : 350 * 60 taille : 100*30
+
+CONFIG DES ROCQUE : 
+0 : roque non dispo
+1 : rocque gauche
+2 : rocque droite 
+3 : rocque des deux cotes
+
+CONFIG DES DEPLACEMENTS :
+0 : Pas de couleur : non selectionnable
+1 : Vert : case selectionnable (pas de prise)
+2 : Rouge : case selectionnable (prise de pion)
+3 : Case selectionné
+4 : Cases de rocque(roi)
+6 : Case de prise en passant (pion qui prend)
+7 : Case de prise en passant (pion qui est pris)
+
+CONFIG DES PIONS :
+0 : rien
+1 : pion
+2 : tour
+3 : cavalier
+4 : fou 
+5 : reine
+6 : roi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

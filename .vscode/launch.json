@@ -1,0 +1,22 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "gcc.exe - Générer et déboguer le fichier actif",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "D:\\Desktop\\Code\\Echec\\bin\\main.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "D:\\Desktop\\Code\\Echec\\bin",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "preLaunchTask": "C/C++: gcc.exe générer le fichier actif"
+        }
+    ]
+}
